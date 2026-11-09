@@ -1,6 +1,6 @@
 ### Olá, eu sou o Matheus 👋
 
-Desenvolvedor focado em **IA aplicada**: agentes com LLM, visão computacional e os sistemas que colocam isso em produção. Trabalho com **Python** e **TypeScript** no backend, **React** no front e deploy em nuvem.
+Desenvolvedor: agentes com LLM + **IA aplicada**, visão computacional e os sistemas que colocam isso em produção. Trabalho com **Python** e **TypeScript** no backend, **React** no front e deploy em nuvem.
 
 Construo software que roda de verdade numa operação de e-commerce: integrações com Mercado Livre, Shopee e Olist, estoque, notas fiscais e agentes de IA que geram relatórios diários para a equipe.
 
